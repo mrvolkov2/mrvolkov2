@@ -1,3 +1,5 @@
+# Привет! Я Fullstack Developer 👋
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Привет!+Я+Fullstack+Developer+👋;Создаю+быстрые+веб+и+мобильные+приложения;Пишу+код,+плаваю,+кручу+педали+и+бегаю;Увлекаюсь+космологией+и+наукой+🌌" alt="Typing SVG" />
