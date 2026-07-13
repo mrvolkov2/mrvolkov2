@@ -75,6 +75,20 @@
   <img src="https://github-activity-graph.vercel.app/graph?username=mrvolkov2&bg_color=1d2021&color=007acc&line=007acc&point=FFFFFF&area=true&hide_border=true&border_radius=8" alt="GitHub activity graph" width="100%" />
 </p>
 
+<!-- Креативный и Интерактивный Блок -->
+<p align="center">
+  <!-- Стабильное Облако тегов (более популярный движок) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrvolkov2&show_icons=true&theme=visual_studio_dark&count_private=true&hide=true" alt="Tag Cloud Alternate" height="150" />
+</p>
+
+<!-- Твоё Увлечение Космосом (Интерактивная карта активности в виде созвездий) -->
+## 🌌 Карта созвездий (Контрибьюции)
+
+<p align="center">
+  <img src="https://github-activity-graph.vercel.app/graph?username=mrvolkov2&bg_color=1d2021&color=007acc&line=007acc&point=FFFFFF&area=true&hide_border=true&border_radius=8" alt="GitHub activity graph" width="100%" />
+</p>
+
+<!-- Чистый Анимированный Баннер (другой тип) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007acc&center=true&vCenter=true&width=600&lines=Привет!+Я+Fullstack+Developer;Создаю+адаптивные+веб-приложения;Увлекаюсь+космосом+и+триатлоном" alt="Typing Banner" />
 </p>
