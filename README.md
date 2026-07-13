@@ -88,7 +88,16 @@
   <img src="https://github-activity-graph.vercel.app/graph?username=mrvolkov2&bg_color=1d2021&color=007acc&line=007acc&point=FFFFFF&area=true&hide_border=true&border_radius=8" alt="GitHub activity graph" width="100%" />
 </p>
 
-<!-- Чистый Анимированный Баннер (другой тип) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007acc&center=true&vCenter=true&width=600&lines=Привет!+Я+Fullstack+Developer;Создаю+адаптивные+веб-приложения;Увлекаюсь+космосом+и+триатлоном" alt="Typing Banner" />
+  <img src="https://github-readme-tag-cloud.vercel.app/api?username=mrvolkov2&theme=visual_studio_dark&height=300&width=600" alt="Tag Cloud" />
+</p>
+
+## 🧱 Изометрическая активность
+
+<p align="center">
+  <img src="https://github-pixela-grapgh.vercel.app/api?username=mrvolkov2&theme=visual_studio_dark" alt="GitHub 3D Graph" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=150&section=header&text=Fullstack%20Developer&fontSize=40&animation=twinkling" alt="Banner" />
 </p>
