@@ -67,7 +67,7 @@
   <!-- Orbiting Tech Stack Words -->
   <g class="rotating-text">
     <text class="label-text" font-size="7.5px" fill="#94a3b8" letter-spacing="0.15em">
-      <textPath href="#compass-text-path" startOffset="0%">DEVELOPER ✦ REACT ✦ GIT ✦ JS ✦ DEVELOPER ✦ REACT ✦ GIT ✦ JS ✦</textPath>
+      <textPath href="#compass-text-path" startOffset="0%">DEVELOPER ✦ REACT ✦ GIT ✦ JavaScript ✦ DEVELOPER ✦ REACT ✦ GIT ✦ JavaScript ✦</textPath>
     </text>
   </g>
 
