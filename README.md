@@ -56,6 +56,12 @@
 ## 📊 GitHub Статистика
 
 <p align="left">
-  <img src="https://github-readme-stats.github.io/api/top-langs/?username=mrvolkov2&theme=visual_studio_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrvolkov2&theme=visual_studio_dark" alt="GitHub Streak" />
+  <!-- Новая, стабильная ссылка для общей статистики -->
+  <img src="https://github-readme-stats.github.io/api?username=mrvolkov2&show_icons=true&theme=visual_studio_dark&hide_border=true" alt="GitHub Stats" />
+  
+  <!-- Новая, стабильная ссылка для ваших языков программирования -->
+  <img src="https://github-readme-stats.github.io/api/top-langs/?username=mrvolkov2&theme=visual_studio_dark&hide_border=true&layout=compact" alt="Top Languages" />
+  
+  <!-- Ваша старая (рабочая) ссылка для полосы активности -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrvolkov2&theme=visual_studio_dark&hide_border=true" alt="GitHub Streak" />
 </p>
