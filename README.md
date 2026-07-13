@@ -64,7 +64,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrvolkov2&theme=visual_studio_dark&layout=compact&hide_border=true&langs_count=7" alt="Top Languages" height="180" />
 </p>
 
-<!-- Креативный и Интерактивный Блок -->
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrvolkov2&show_icons=true&theme=visual_studio_dark&count_private=true&hide_true" alt="Tag Cloud Alternate" height="150" />
 </p>
@@ -73,31 +72,4 @@
 
 <p align="center">
   <img src="https://github-activity-graph.vercel.app/graph?username=mrvolkov2&bg_color=1d2021&color=007acc&line=007acc&point=FFFFFF&area=true&hide_border=true&border_radius=8" alt="GitHub activity graph" width="100%" />
-</p>
-
-<!-- Креативный и Интерактивный Блок -->
-<p align="center">
-  <!-- Стабильное Облако тегов (более популярный движок) -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrvolkov2&show_icons=true&theme=visual_studio_dark&count_private=true&hide=true" alt="Tag Cloud Alternate" height="150" />
-</p>
-
-<!-- Твоё Увлечение Космосом (Интерактивная карта активности в виде созвездий) -->
-## 🌌 Карта созвездий (Контрибьюции)
-
-<p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=mrvolkov2&bg_color=1d2021&color=007acc&line=007acc&point=FFFFFF&area=true&hide_border=true&border_radius=8" alt="GitHub activity graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-tag-cloud.vercel.app/api?username=mrvolkov2&theme=visual_studio_dark&height=300&width=600" alt="Tag Cloud" />
-</p>
-
-## 🧱 Изометрическая активность
-
-<p align="center">
-  <img src="https://github-pixela-grapgh.vercel.app/api?username=mrvolkov2&theme=visual_studio_dark" alt="GitHub 3D Graph" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=150&section=header&text=Fullstack%20Developer&fontSize=40&animation=twinkling" alt="Banner" />
 </p>
