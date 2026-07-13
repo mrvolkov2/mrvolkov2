@@ -64,9 +64,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrvolkov2&theme=visual_studio_dark&layout=compact&hide_border=true&langs_count=7" alt="Top Languages" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrvolkov2&show_icons=true&theme=visual_studio_dark&count_private=true&hide_true" alt="Tag Cloud Alternate" height="150" />
-</p>
+---
 
 ## 🌌 Карта созвездий (Контрибьюции)
 
