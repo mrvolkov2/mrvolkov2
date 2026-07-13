@@ -63,3 +63,20 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrvolkov2&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrvolkov2&theme=visual_studio_dark&layout=compact&hide_border=true&langs_count=7" alt="Top Languages" height="180" />
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-tag-cloud.vercel.app/api?username=mrvolkov2&theme=visual_studio_dark&height=300&width=600" alt="Tag Cloud" />
+</p>
+
+## 🧱 Изометрическая активность
+
+<p align="center">
+  <img src="https://github-pixela-grapgh.vercel.app/api?username=mrvolkov2&theme=visual_studio_dark" alt="GitHub 3D Graph" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=150&section=header&text=Fullstack%20Developer&fontSize=40&animation=twinkling" alt="Banner" />
+</p>
+
+
