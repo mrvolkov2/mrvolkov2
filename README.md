@@ -77,3 +77,34 @@
 <p align="center">
   <img src="https://github-activity-graph.vercel.app/graph?username=mrvolkov2&bg_color=1d2021&color=007acc&line=007acc&point=FFFFFF&area=true&hide_border=true&border_radius=8" alt="GitHub activity graph" width="100%" />
 </p>
+
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?user=mrvolkov2&theme=dracula" alt="3D Contribution Graph" width="100%" />
+</p>
+---
+
+## Test
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Привет!+Я+Fullstack+Developer+👋;Создаю+быстрые+веб+и+мобильные+приложения;Пишу+код,+плаваю,+кручу+педали+и+бегаю;Увлекаюсь+космологией+и+наукой+🌌" alt="Typing SVG" />
+  </a>
+</p>
+
+<details>
+  <summary><b>🌌 Кликни, чтобы открыть небольшой факт обо мне</b></summary>
+  <br>
+  <p>Пока мой код компилируется, я либо планирую свой следующий заплыв на открытой воде, либо читаю новости про запуски SpaceX. Если хочешь обсудить React Native или теорию струн — смело пиши мне!</p>
+</details>
+
+---
+
+## 🏊‍♂️ Хобби & Интересы
+
+Когда я не пишу код на любимом диване, меня можно найти здесь:
+* **Циклический спорт:** Увлекаюсь бегом, плаванием и триатлоном (активно тренируюсь и готовлюсь к стартам на открытой воде).
+* **Велосипед:** Люблю кататься на MTB и самостоятельно заниматься его обслуживанием.
+* **Science:** Интересуюсь физикой, космологией и новостями космонавтики.
+
+---
