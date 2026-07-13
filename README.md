@@ -56,6 +56,6 @@
 ## 📊 GitHub Статистика
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrvolkov2&show_icons=true&theme=visual_studio_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.github.io/api?username=mrvolkov2&show_icons=true&theme=visual_studio_dark" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrvolkov2&theme=visual_studio_dark" alt="GitHub Streak" />
 </p>
