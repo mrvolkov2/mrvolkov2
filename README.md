@@ -55,13 +55,19 @@
 
 ## 📊 GitHub Статистика
 
-<p align="left">
-  <!-- Новая, стабильная ссылка для общей статистики -->
-  <img src="https://github-readme-stats.github.io/api?username=mrvolkov2&show_icons=true&theme=visual_studio_dark&hide_border=true" alt="GitHub Stats" />
-  
-  <!-- Новая, стабильная ссылка для ваших языков программирования -->
-  <img src="https://github-readme-stats.github.io/api/top-langs/?username=mrvolkov2&theme=visual_studio_dark&hide_border=true&layout=compact" alt="Top Languages" />
-  
-  <!-- Ваша старая (рабочая) ссылка для полосы активности -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrvolkov2&theme=visual_studio_dark&hide_border=true" alt="GitHub Streak" />
+## 📊 GitHub Статистика
+
+<p align="center">
+  <a href="https://github.com/mrvolkov2">
+    <img src="https://github-readme-stats.vercel.app/api?username=mrvolkov2&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="180" />
+  </a>
+  <a href="https://github.com/mrvolkov2">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvolkov2&theme=visual_studio_dark&layout=compact&hide_border=true" alt="Top Languages" height="180" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mrvolkov2">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrvolkov2&theme=visual_studio_dark&hide_border=true" alt="GitHub Streak" width="100%" />
+  </a>
 </p>
