@@ -5,8 +5,6 @@
 ---
 
 ## 🛠️ Стек технологий & Инструменты
-
-  
 <img src="compass.svg" align="right" width="180" />
 
 <p align="left">
