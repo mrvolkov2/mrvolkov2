@@ -7,7 +7,6 @@
 ---
 
 ## 🛠️ Стек технологий & Инструменты
-<br clear="right" />
 
 <p align="left">
 <!-- Frontend -->
