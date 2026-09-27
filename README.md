@@ -1,6 +1,6 @@
 # Привет! Я Сергей 👋 (Siarhei Volkau)
 
-**Fullstack Developer & Software Engineer**  
+**Fullstack Developer & Software Engineer | Founder & Tech Lead at CodLod Studio | Creator of MyRating Autos**  
 Инженер по профессии, увлеченный созданием современных, быстрых и адаптивных веб-приложений.  
 Специализируюсь на разработке цифровых продуктов «под ключ» — от продуманной архитектуры и дизайна до деплоя и поддержки.
 
