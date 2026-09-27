@@ -1,4 +1,4 @@
-# Привет! Я Сергей 👋 (Siarhei Volkau)
+# Привет! Я Сергей 👋 (Sergei Volkov)
 
 **Fullstack Developer & Software Engineer | Founder & Tech Lead at CodLod Studio | Creator of MyRating.autos**  
 Инженер по профессии, увлеченный созданием современных, быстрых и адаптивных веб-приложений.  
