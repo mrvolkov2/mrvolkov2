@@ -1,6 +1,6 @@
 # Привет! Я Сергей 👋 (Sergei Volkov)
 
-**Fullstack Developer & Software Engineer | Founder & Tech Lead at CodLod Studio | Creator of MyRating.autos**  
+**Fullstack Developer & Software Engineer | Founder & Tech Lead at [CodLod Studio](https://codlod.com) | Creator of [MyRating.autos](https://myrating.autos)**  
 Инженер по профессии, увлеченный созданием современных, быстрых и адаптивных веб-приложений.  
 Специализируюсь на разработке цифровых продуктов «под ключ» — от продуманной архитектуры и дизайна до деплоя и поддержки.
 
