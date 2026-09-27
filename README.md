@@ -20,6 +20,7 @@
 * **[CodLod Studio](https://codlod.com)** — персональная студия разработки цифровых решений. Веб-разработка, автоматизация и брендинг.
 * **[MyRating Autos](https://myrating.autos)** — автомобильный рейтинговый портал с динамическими оценками и комьюнити. Построен на современном стеке: Next.js, Supabase, интеграция с Cloudinary.
 * **[MyRating Autos Bot](https://t.me/myrating_autos_bot)** — автономный Telegram-бот, расширяющий функционал автомобильного портала (удобное взаимодействие и управление рейтингами).
+* **[Interactive Task Calendar](https://mrvolkov2.github.io/calendar-tasks-interactive/)** — интерактивное веб-приложение с календарем для удобного планирования и управления задачами.
   
 ---
 
