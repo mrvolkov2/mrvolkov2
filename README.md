@@ -4,6 +4,8 @@
 Инженер по профессии, увлеченный созданием современных, быстрых и адаптивных веб-приложений.  
 Специализируюсь на разработке цифровых продуктов «под ключ» — от продуманной архитектуры и дизайна до деплоя и поддержки.
 
+[![Email CodLod](https://img.shields.io/badge/Email-hello@codlod.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@codlod.com)
+[![Email MyRating](https://img.shields.io/badge/Email-office@myrating.autos-34A853?style=for-the-badge&logo=gmail&logoColor=white)](mailto:office@myrating.autos)
 [![YouTube](https://img.shields.io/badge/YouTube-MyRating-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MyRating-autos)
 
 ---
