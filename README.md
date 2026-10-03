@@ -8,6 +8,8 @@
 [![Email MyRating](https://img.shields.io/badge/Email-office@myrating.autos-34A853?style=for-the-badge&logo=gmail&logoColor=white)](mailto:office@myrating.autos)
 [![YouTube](https://img.shields.io/badge/YouTube-MyRating-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MyRating-autos)
 
+🚀 **Мы набираем команду:** тестировщики, SMM, видеомонтажёры, авторы и переводчики → [подробнее и отклик](https://myrating.autos/about/team)
+
 ---
 
 ## 💻 Чем я могу помочь (Services)
