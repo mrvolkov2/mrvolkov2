@@ -28,7 +28,7 @@
   
 ---
 
-## 🛠️ Стек технологий & Инструменты
+## ⏩ Стек технологий & Инструменты
 <img src="compass.svg" align="right" width="180" />
 
 **Core (Frontend & Languages)**  
