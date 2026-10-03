@@ -74,7 +74,7 @@
 
 ---
 
-## 📊 GitHub Статистика (Code. Deploy. Repeat.)
+## 📈 GitHub Статистика (Code. Deploy. Repeat.)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrvolkov2&theme=visual_studio_dark&hide_border=true" alt="GitHub Streak" width="100%" />
