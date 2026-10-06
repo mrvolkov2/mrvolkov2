@@ -1,11 +1,12 @@
 # Привет! Я Сергей 👋 (Sergei Volkov)
 
 **Fullstack Developer & Software Engineer | Founder & Tech Lead at [CodLod Studio](https://codlod.com) | Creator of [MyRating.autos](https://myrating.autos)**  
-Инженер по профессии, увлеченный созданием современных, быстрых и адаптивных веб-приложений.  
+Инженер по профессии, увлеченный созданием современных, быстрых и адаптивных веб- и мобильных приложений.  
 Специализируюсь на разработке цифровых продуктов «под ключ» — от продуманной архитектуры и дизайна до деплоя и поддержки.
 
 [![Email CodLod](https://img.shields.io/badge/Email-hello@codlod.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@codlod.com)
 [![Email MyRating](https://img.shields.io/badge/Email-office@myrating.autos-34A853?style=for-the-badge&logo=gmail&logoColor=white)](mailto:office@myrating.autos)
+[![Android App](https://img.shields.io/badge/Android_App-MyRating-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://myrating.autos/about/app)
 [![YouTube](https://img.shields.io/badge/YouTube-MyRating-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MyRating-autos)
 
 🚀 **Мы набираем команду:** тестировщики, SMM, видеомонтажёры, авторы и переводчики → [подробнее и отклик](https://myrating.autos/about/team)
@@ -14,6 +15,7 @@
 
 ## 💻 Чем я могу помочь (Services)
 
+* **Мобильная разработка (Android):** Создание кроссплатформенных и нативных мобильных приложений на React Native / Android для расширения экосистемы ваших продуктов.
 * **Разработка SPA и веб-приложений:** Создание быстрых, масштабируемых и SEO-оптимизированных интерфейсов (Next.js / React).
 * **Бэкенд и Базы данных:** Проектирование архитектуры, разработка REST API (Node.js/Express) и глубокая интеграция с базами данных (PostgreSQL, Supabase).
 * **Автоматизация бизнес-процессов:** Создание автономных Telegram-ботов и их бесшовная привязка к веб-сервисам.
@@ -24,12 +26,13 @@
 
 ## 🌐 Мои проекты & Продукты
 
-* **[CodLod Studio](https://codlod.com)** — персональная студия разработки цифровых решений. Веб-разработка, автоматизация и брендинг.
+* **[CodLod Studio](https://codlod.com)** — персональная студия разработки цифровых решений. Веб-разработка, мобильные приложения, автоматизация и брендинг.
 * **[MyRating Autos](https://myrating.autos)** — автомобильный рейтинговый портал с динамическими оценками и комьюнити. Построен на современном стеке: Next.js, Supabase, интеграция с Cloudinary.
+* **[MyRating Autos App (Android)](https://myrating.autos/about/app)** — официальное мобильное приложение портала для Android, обеспечивающее удобный доступ к рейтингам и функциям сервиса прямо со смартфона.
 * **[MyRating Autos Bot](https://t.me/myrating_autos_bot)** — автономный Telegram-бот, расширяющий функционал автомобильного портала (удобное взаимодействие и управление рейтингами).
 * **[MyRating Autos на YouTube](https://youtube.com/@MyRating-autos)** — наш YouTube-канал проекта: авто-контент, музыка, видео о развитии портала и бота.
 * **[Interactive Task Calendar](https://mrvolkov2.github.io/calendar-tasks-interactive/)** — интерактивное веб-приложение с календарем для удобного планирования и управления задачами.
-  
+
 ---
 
 ## ⏩ Стек технологий & Инструменты
