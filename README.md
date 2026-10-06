@@ -5,8 +5,8 @@
 Специализируюсь на разработке цифровых продуктов «под ключ» — от продуманной архитектуры и дизайна до деплоя и поддержки.
 
 [![Email CodLod](https://img.shields.io/badge/Email-hello@codlod.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@codlod.com)
-[![Email MyRating](https://img.shields.io/badge/Email-office@myrating.autos-34A853?style=for-the-badge&logo=gmail&logoColor=white)](mailto:office@myrating.autos)
-[![Android App](https://img.shields.io/badge/Android_App-MyRating-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://myrating.autos/about/app)
+[![Email MyRating](https://img.shields.io/badge/Email-office@myrating.autos-1B72E8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:office@myrating.autos)
+[![Android App](https://img.shields.io/badge/Android_App-MyRating-34A853?style=for-the-badge&logo=android&logoColor=white)](https://myrating.autos/about/app)
 [![YouTube](https://img.shields.io/badge/YouTube-MyRating-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MyRating-autos)
 
 🚀 **Мы набираем команду:** тестировщики, SMM, видеомонтажёры, авторы и переводчики → [подробнее и отклик](https://myrating.autos/about/team)
