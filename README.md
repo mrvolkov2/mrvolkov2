@@ -26,12 +26,14 @@
 
 ## 🌐 Мои проекты & Продукты
 
-* **[CodLod Studio](https://codlod.com)** — персональная студия разработки цифровых решений. Веб-разработка, мобильные приложения, автоматизация и брендинг.
-* **[MyRating Autos](https://myrating.autos)** — автомобильный рейтинговый портал с динамическими оценками и комьюнити. Построен на современном стеке: Next.js, Supabase, интеграция с Cloudinary.
-* **[MyRating Autos App (Android)](https://myrating.autos/about/app)** — официальное мобильное приложение портала для Android, обеспечивающее удобный доступ к рейтингам и функциям сервиса прямо со смартфона.
-* **[MyRating Autos на YouTube](https://youtube.com/@MyRating-autos)** — наш YouTube-канал проекта: авто-контент, музыка, видео о развитии портала и бота.
-* **[MyRating Autos Bot](https://t.me/myrating_autos_bot)** — автономный Telegram-бот, расширяющий функционал автомобильного портала (удобное взаимодействие и управление рейтингами).
-* **[Interactive Task Calendar](https://mrvolkov2.github.io/calendar-tasks-interactive/)** — интерактивное веб-приложение с календарем для удобного планирования и управления задачами.
+- 🌐 **[CodLod Studio](https://codlod.com)** — персональная студия разработки цифровых решений. Веб-разработка, мобильные приложения, автоматизация и брендинг.
+- 🚗 **[MyRating Autos](https://myrating.autos)** — автомобильный рейтинговый портал с динамическими оценками и комьюнити. Построен на современном стеке: Next.js, Supabase, интеграция с Cloudinary.
+- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/android.svg" width="16" height="16" valign="middle" alt="Android" /> **[Android App](https://myrating.autos/about/app)** — официальное мобильное приложение портала для Android, обеспечивающее удобный доступ к рейтингам и функциям сервиса прямо со смартфона.
+- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" width="16" height="16" valign="middle" alt="YouTube" /> **[YouTube channel](https://youtube.com/@MyRating-autos)** — наш YouTube-канал проекта: авто-контент, музыка, видео о развитии портала и бота.
+- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" width="16" height="16" valign="middle" alt="Telegram" /> **[Telegram bot](https://t.me/myrating_autos_bot)** — автономный Telegram-бот, расширяющий функционал автомобильного портала (удобное взаимодействие и управление рейтингами).
+- ⚛️ **[RealPhysics](https://codlod.com/realphysics)** — интерактивное веб-приложение для симуляции и визуализации физических процессов.
+- 🧩 **[Rubik's Cube](https://codlod.com/rubik)** — интерактивная 3D-реализация головоломки «Кубик Рубика» для браузера.
+- 📅 **[Interactive Task Calendar](https://mrvolkov2.github.io/calendar-tasks-interactive/)** — интерактивное веб-приложение с календарем для удобного планирования и управления задачами.
 
 ---
 
