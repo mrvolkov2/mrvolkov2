@@ -26,14 +26,14 @@
 
 ## 🌐 Мои проекты & Продукты
 
-- 🌐 **[CodLod Studio](https://codlod.com)** — персональная студия разработки цифровых решений. Веб-разработка, мобильные приложения, автоматизация и брендинг.
-- 🚗 **[MyRating Autos](https://myrating.autos)** — автомобильный рейтинговый портал с динамическими оценками и комьюнити. Построен на современном стеке: Next.js, Supabase, интеграция с Cloudinary.
-- ![Android](https://img.shields.io/badge/-Android_App-34A853?style=flat-square&logo=android&logoColor=white) **[Android App](https://myrating.autos/about/app)** — официальное мобильное приложение портала для Android, обеспечивающее удобный доступ к рейтингам и функциям сервиса прямо со смартфона.
-- ![YouTube](https://img.shields.io/badge/-YouTube_channel-FF0000?style=flat-square&logo=youtube&logoColor=white) **[YouTube channel](https://youtube.com/@MyRating-autos)** — наш YouTube-канал проекта: авто-контент, музыка, видео о развитии портала и бота.
-- ![Telegram](https://img.shields.io/badge/-Telegram_bot-26A5E4?style=flat-square&logo=telegram&logoColor=white) **[Telegram bot](https://t.me/myrating_autos_bot)** — автономный Telegram-бот, расширяющий функционал автомобильного портала (удобное взаимодействие и управление рейтингами).
-- ⚛️ **[RealPhysics](https://codlod.com/realphysics)** — интерактивное веб-приложение для симуляции и визуализации физических процессов.
-- 🧩 **[Rubik's Cube](https://codlod.com/rubik)** — интерактивная 3D-реализация головоломки «Кубик Рубика» для браузера.
-- 📅 **[Interactive Task Calendar](https://mrvolkov2.github.io/calendar-tasks-interactive/)** — интерактивное веб-приложение с календарем для удобного планирования и управления задачами.
+- ![CodLod Studio](https://img.shields.io/badge/-CodLod_Studio-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) **[CodLod Studio](https://codlod.com)** — персональная студия разработки цифровых решений. Веб-разработка, мобильные приложения, автоматизация и брендинг.
+- ![MyRating Autos](https://img.shields.io/badge/-MyRating_Autos-1B72E8?style=flat-square&logo=googlechrome&logoColor=white) **[MyRating Autos](https://myrating.autos)** — автомобильный рейтинговый портал с динамическими оценками и комьюнити. Построен на современном стеке: Next.js, Supabase, интеграция с Cloudinary.
+- ![Android App](https://img.shields.io/badge/-Android_App-34A853?style=flat-square&logo=android&logoColor=white) **[Android App](https://myrating.autos/about/app)** — официальное мобильное приложение портала для Android, обеспечивающее удобный доступ к рейтингам и функциям сервиса прямо со смартфона.
+- ![YouTube Channel](https://img.shields.io/badge/-YouTube_channel-FF0000?style=flat-square&logo=youtube&logoColor=white) **[YouTube channel](https://youtube.com/@MyRating-autos)** — наш YouTube-канал проекта: авто-контент, музыка, видео о развитии портала и бота.
+- ![Telegram Bot](https://img.shields.io/badge/-Telegram_bot-26A5E4?style=flat-square&logo=telegram&logoColor=white) **[Telegram bot](https://t.me/myrating_autos_bot)** — автономный Telegram-бот, расширяющий функционал автомобильного портала (удобное взаимодействие и управление рейтингами).
+- ![RealPhysics](https://img.shields.io/badge/-RealPhysics-61DAFB?style=flat-square&logo=physics&logoColor=black) **[RealPhysics](https://codlod.com/realphysics)** — интерактивное веб-приложение для симуляции и визуализации физических процессов.
+- ![Rubiks Cube](https://img.shields.io/badge/-Rubik's_Cube-FFD700?style=flat-square&logo=rubrik&logoColor=black) **[Rubik's Cube](https://codlod.com/rubik)** — интерактивная 3D-реализация головоломки «Кубик Рубика» для браузера.
+- ![Task Calendar](https://img.shields.io/badge/-Task_Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white) **[Interactive Task Calendar](https://mrvolkov2.github.io/calendar-tasks-interactive/)** — интерактивное веб-приложение с календарем для удобного планирования и управления задачами.
 
 ---
 
