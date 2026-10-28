@@ -4,7 +4,7 @@
 Инженер по профессии, увлеченный созданием современных, быстрых и адаптивных веб- и мобильных приложений.  
 Специализируюсь на разработке цифровых продуктов «под ключ» — от продуманной архитектуры и дизайна до деплоя и поддержки.
 
-[![Email CodLod](https://img.shields.io/badge/Email-hello@codlod.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codlodstudio@gmail.com)
+[![Email CodLod](https://img.shields.io/badge/Email-codlodstudio@gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codlodstudio@gmail.com)
 [![Email MyRating](https://img.shields.io/badge/Email-office@myrating.autos-1B72E8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:office@myrating.autos)
 [![Android App](https://img.shields.io/badge/Android_App-MyRating-34A853?style=for-the-badge&logo=android&logoColor=white)](https://myrating.autos/about/app)
 [![YouTube](https://img.shields.io/badge/YouTube-MyRating-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MyRating-autos)
